@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myDemo01_dao" />
+        <module name="myDemo01_domain" />
+        <module name="myDemo01_service" />
+        <module name="myDemo01_utils" />
+        <module name="myDemo01_web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

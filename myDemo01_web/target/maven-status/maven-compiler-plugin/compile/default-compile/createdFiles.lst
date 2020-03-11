@@ -1,0 +1,7 @@
+com\smh\controller\UserController.class
+com\smh\controller\ProductController.class
+com\smh\controller\RoleController.class
+com\smh\controller\OrdersController.class
+com\smh\controller\LogAop.class
+com\smh\controller\PermissionController.class
+com\smh\controller\SysLogController.class
