@@ -11,7 +11,7 @@
     <properties>
         <spring.version>5.1.9.RELEASE</spring.version>
         <mybatis.version>3.5.2</mybatis.version>
-        <spring.security.version>5.0.1.RELEASE</spring.security.version>
+        <spring.security.version>5.3.3.RELEASE</spring.security.version>
     </properties>
 
     <dependencies>        <!-- spring -->
